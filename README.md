@@ -43,7 +43,7 @@ The analysis highlights patterns in physical activity, sleep, and weight that ca
 ---
 
 ## 🔗 Kaggle Project Link
-[View Project on Kaggle](https://www.kaggle.com/code/steffisilvia/bellabeta-project?scriptVersionId=265303999)
+[View Project on Kaggle](https://www.kaggle.com/code/steffisilvia/bellabeta-project)
 
 ---
 
